@@ -1,5 +1,5 @@
 # My-filters
-[![syntaxADG](https://img.shields.io/badge/-subscribe-red)](https://kb.adguard.com/en/general/how-to-create-your-own-ad-filters)
+You can add this list to yourself using this button — [![syntaxADG](https://img.shields.io/badge/-subscribe-red)](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/zouzou05/My-filters/master/My-filters.txt)
 
 Filters for blocking pop-ups and anti-adblock bypass.
 
