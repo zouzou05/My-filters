@@ -6,7 +6,6 @@ youtube.com##.ytd-rich-item-renderer:has-text(/الشاب حسني/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/الشاب خالد/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/Cheb Khaled/i):upward(1)
 
-!ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
 !------------------------------------- football --------------------------------------------
 youtube.com##.ytd-rich-item-renderer:has-text(/رياض محرز/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/Riyad Mahrez/i):upward(1)
@@ -28,7 +27,6 @@ youtube.com##.ytd-rich-item-renderer:has-text(/كاس العالم/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/كأس العالم/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/France/i):upward(1)
 
-!ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
 !------------------------------------- TV Shows --------------------------------------------
 youtube.com##.ytd-rich-item-renderer:has-text(/فوق السلطة/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/ناشونال جيوغرافيك/i):upward(1)
@@ -36,7 +34,6 @@ youtube.com##.ytd-rich-item-renderer:has-text(/بث مباشر/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/باب الحارة/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/خواطر/i):upward(1)
 
-ــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
 !------------------------------------- temporary ------------------------------------------
 youtube.com##.ytd-rich-item-renderer:has-text(/كورونا/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/corona/i):upward(1)
@@ -45,17 +42,14 @@ youtube.com##.ytd-rich-item-renderer:has-text(/مسلسل/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/البث الحي/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/Trailer/i):upward(1)
 
-!ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
 !------------------------------------- food -----------------------------------------------
 youtube.com##.ytd-rich-item-renderer:has-text(/دجاج/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/اكل/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/طبخ/i):upward(1)
 
-!ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
 !------------------------------------- Animals --------------------------------------------
 youtube.com##.ytd-rich-item-renderer:has-text(/حيوانات/i):upward(1)
 
-!ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
 !------------------------------------- Unlimited -------------------------------------------
 youtube.com##.ytd-rich-item-renderer:has-text(/معجزة/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/خياطة/i):upward(1)
@@ -66,7 +60,6 @@ youtube.com##.ytd-rich-item-renderer:has-text(/ردة فعلي/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/اللغة الانجليزية/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/ردة فعل/i):upward(1)
 
-!ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
 !------------------------------------- My filters pane -------------------------------------
 https://tvplusnewtab.com/
 http://newtabtv.com/
