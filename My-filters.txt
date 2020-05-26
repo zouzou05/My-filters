@@ -22,3 +22,5 @@ youtube.com###dismissable:has-text(/فري فاير/i):upward(3)
 www.youtube.com##.ytp-scroll-min.ytp-pause-overlay
 ! 5/7/2020 https://www.up-4ever.org
 www.up-4ever.org##center
+! 5/14/2020 https://vps.apponfly.com
+vps.apponfly.com###RequireEmail
