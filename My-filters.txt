@@ -1,4 +1,5 @@
-! Title: Hide YouTube videos with tags
+! Title: My filters
+!Hide YouTube videos with tags
 youtube.com###dismissable:has-text(/corona/i):upward(3)
 youtube.com###dismissable:has-text(/بث مباشر/i):upward(3)
 youtube.com###dismissable:has-text(/البث الحي/i):upward(3)
