@@ -1,0 +1,4 @@
+youtube.com###dismissable:has-text(/corona/i):upward(3)
+youtube.com###dismissable:has-text(/ÈË ãÈÇÔÑ/i):upward(3)
+youtube.com###dismissable:has-text(/ÇáÈË ÇáÍí/i):upward(3)
+youtube.com###dismissable:has-text(/ßÑÉ ÇáŞÏã/i):upward(3)  
