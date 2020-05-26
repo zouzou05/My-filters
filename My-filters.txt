@@ -31,6 +31,7 @@ youtube.com##.ytd-rich-item-renderer:has-text(/France/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/محرز/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/بن شيخ/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/goal/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/لخضر بريش/i):upward(1)
 
 !------------------------------------- TV Shows --------------------------------------------
 youtube.com##.ytd-rich-item-renderer:has-text(/فوق السلطة/i):upward(1)
@@ -39,6 +40,7 @@ youtube.com##.ytd-rich-item-renderer:has-text(/بث مباشر/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/باب الحارة/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/خواطر/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/فيلم/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/netflix/i):upward(1)
 
 !------------------------------------- temporary ------------------------------------------
 youtube.com##.ytd-rich-item-renderer:has-text(/كورونا/i):upward(1)
