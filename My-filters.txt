@@ -19,7 +19,6 @@ youtube.com###dismissable:has-text(/طبخ/i):upward(3)
 youtube.com###dismissable:has-text(/حلويات/i):upward(3)
 youtube.com###dismissable:has-text(/فري فاير/i):upward(3)
 !-------------------------------------------------------------------------------
-
 https://tvplusnewtab.com/
 http://newtabtv.com/
 facebook.com###pagelet_growth_expanding_cta
