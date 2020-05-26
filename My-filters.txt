@@ -1,25 +1,73 @@
 ! Title: My filters
 !Hide YouTube videos with tags
-youtube.com###dismissable:has-text(/corona/i):upward(3)
-youtube.com###dismissable:has-text(/بث مباشر/i):upward(3)
-youtube.com###dismissable:has-text(/البث الحي/i):upward(3)
-youtube.com###dismissable:has-text(/كرة القدم/i):upward(3)  
-youtube.com###dismissable:has-text(/كاس العالم/i):upward(3) 
-youtube.com###dismissable:has-text(/كاس افريقيا/i):upward(3)
-youtube.com###dismissable:has-text(/رياض محرز/i):upward(3)
-youtube.com###dismissable:has-text(/كريستيانو/i):upward(3)
-youtube.com###dismissable:has-text(/ميسي/i):upward(3)
-youtube.com###dismissable:has-text(/هاتريك/i):upward(3)
-youtube.com###dismissable:has-text(/حفيظ دراجي/i):upward(3)
-youtube.com###dismissable:has-text(/رؤوف خليف/i):upward(3)
-youtube.com###dismissable:has-text(/messy/i):upward(3)
-youtube.com###dismissable:has-text(/cristiano/i):upward(3)
-youtube.com###dismissable:has-text(/football/i):upward(3)
-youtube.com###dismissable:has-text(/مكياج/i):upward(3)
-youtube.com###dismissable:has-text(/طبخ/i):upward(3)
-youtube.com###dismissable:has-text(/حلويات/i):upward(3)
-youtube.com###dismissable:has-text(/فري فاير/i):upward(3)
-!-------------------------------------------------------------------------------
+!------------------------------------- music ----------------------------------------------
+youtube.com##.ytd-rich-item-renderer:has-text(/ncs/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/الشاب حسني/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/الشاب خالد/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/Cheb Khaled/i):upward(1)
+
+!ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
+!------------------------------------- football --------------------------------------------
+youtube.com##.ytd-rich-item-renderer:has-text(/رياض محرز/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/Riyad Mahrez/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/الجزائر/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/أفريقيا/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/افريقيا/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/كرة القدم/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/إفريقيا/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/football/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/نهائيات/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/ريال مدريد/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/الريال/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/برشلونة/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/ميسي/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/كريستيانو/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/fifa/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/Africa/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/كاس العالم/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/كأس العالم/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/France/i):upward(1)
+
+!ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
+!------------------------------------- TV Shows --------------------------------------------
+youtube.com##.ytd-rich-item-renderer:has-text(/فوق السلطة/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/ناشونال جيوغرافيك/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/بث مباشر/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/باب الحارة/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/خواطر/i):upward(1)
+
+ــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
+!------------------------------------- temporary ------------------------------------------
+youtube.com##.ytd-rich-item-renderer:has-text(/كورونا/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/corona/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/التابوت/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/مسلسل/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/البث الحي/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/Trailer/i):upward(1)
+
+!ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
+!------------------------------------- food -----------------------------------------------
+youtube.com##.ytd-rich-item-renderer:has-text(/دجاج/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/اكل/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/طبخ/i):upward(1)
+
+!ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
+!------------------------------------- Animals --------------------------------------------
+youtube.com##.ytd-rich-item-renderer:has-text(/حيوانات/i):upward(1)
+
+!ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
+!------------------------------------- Unlimited -------------------------------------------
+youtube.com##.ytd-rich-item-renderer:has-text(/معجزة/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/خياطة/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/مكياج/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/اتحداك/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/التركية/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/ردة فعلي/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/اللغة الانجليزية/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/ردة فعل/i):upward(1)
+
+!ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
+!------------------------------------- My filters pane -------------------------------------
 https://tvplusnewtab.com/
 http://newtabtv.com/
 facebook.com###pagelet_growth_expanding_cta
