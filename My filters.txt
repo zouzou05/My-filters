@@ -1,4 +1,5 @@
+! Title: Hide YouTube videos with tags
 youtube.com###dismissable:has-text(/corona/i):upward(3)
-youtube.com###dismissable:has-text(/»À „»«‘—/i):upward(3)
-youtube.com###dismissable:has-text(/«·»À «·ÕÌ/i):upward(3)
-youtube.com###dismissable:has-text(/ﬂ—… «·ﬁœ„/i):upward(3)  
+youtube.com###dismissable:has-text(/√à√ã √£√à√á√î√ë/i):upward(3)
+youtube.com###dismissable:has-text(/√á√°√à√ã √á√°√ç√≠/i):upward(3)
+youtube.com###dismissable:has-text(/√ü√ë√â √á√°√û√è√£/i):upward(3)  
