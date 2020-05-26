@@ -1,11 +1,12 @@
 ! Title: My filters
-!Hide YouTube videos with tags
+! Hide YouTube videos with tags
+! Homepage:https://github.com/zouzou05/My-filters
 !------------------------------------- music ----------------------------------------------
 youtube.com##.ytd-rich-item-renderer:has-text(/ncs/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/الشاب حسني/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/الشاب خالد/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/Cheb Khaled/i):upward(1)
-youtube.com##.ytd-rich-item-renderer:has-text(/ CHEB HASNI/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/CHEB HASNI/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/8d/i):upward(1)
 
 !------------------------------------- football --------------------------------------------
