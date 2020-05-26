@@ -30,6 +30,7 @@ youtube.com##.ytd-rich-item-renderer:has-text(/كأس العالم/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/France/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/محرز/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/بن شيخ/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/goal/i):upward(1)
 
 !------------------------------------- TV Shows --------------------------------------------
 youtube.com##.ytd-rich-item-renderer:has-text(/فوق السلطة/i):upward(1)
@@ -54,6 +55,8 @@ youtube.com##.ytd-rich-item-renderer:has-text(/طبخ/i):upward(1)
 
 !------------------------------------- Animals --------------------------------------------
 youtube.com##.ytd-rich-item-renderer:has-text(/حيوانات/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/كناري/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/حسون/i):upward(1)
 
 !------------------------------------- Unlimited -------------------------------------------
 youtube.com##.ytd-rich-item-renderer:has-text(/معجزة/i):upward(1)
