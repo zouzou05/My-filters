@@ -18,3 +18,5 @@ youtube.com###dismissable:has-text(/مكياج/i):upward(3)
 youtube.com###dismissable:has-text(/طبخ/i):upward(3)
 youtube.com###dismissable:has-text(/حلويات/i):upward(3)
 youtube.com###dismissable:has-text(/فري فاير/i):upward(3)
+![Youtube]حظر مقاطع الفيديو المقترحة المعروضة عند إيقاف الفيديو مؤقتًا.
+www.youtube.com##.ytp-scroll-min.ytp-pause-overlay
