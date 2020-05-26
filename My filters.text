@@ -1,6 +1,0 @@
-# My-filters
-youtube.com###dismissable:has-text(/corona/i):upward(3)
-youtube.com###dismissable:has-text(/بث مباشر/i):upward(3)
-youtube.com###dismissable:has-text(/البث الحي/i):upward(3)
-youtube.com###dismissable:has-text(/كرة القدم/i):upward(3)  
-youtube.com###dismissable:has-text(/خواطر/i):upward(3)
