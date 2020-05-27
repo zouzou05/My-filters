@@ -8,7 +8,8 @@ youtube.com##.ytd-rich-item-renderer:has-text(/الشاب خالد/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/Cheb Khaled/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/CHEB HASNI/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/8d/i):upward(1)
-
+youtube.com##.ytd-rich-item-renderer:has-text(/MUSIC/i):upward(1)
+ 
 !------------------------------------- football --------------------------------------------
 youtube.com##.ytd-rich-item-renderer:has-text(/Riyad Mahrez/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/الجزائر/i):upward(1)
@@ -59,6 +60,11 @@ youtube.com##.ytd-rich-item-renderer:has-text(/طبخ/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/حيوانات/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/كناري/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/حسون/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/كلاب/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/قطط/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/المقنين/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/مقنين/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/المقنين/i):upward(1)
 
 !------------------------------------- Unlimited -------------------------------------------
 youtube.com##.ytd-rich-item-renderer:has-text(/معجزة/i):upward(1)
@@ -69,6 +75,9 @@ youtube.com##.ytd-rich-item-renderer:has-text(/التركية/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/ردة فعلي/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/اللغة الانجليزية/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/ردة فعل/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/لايفوتك/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/شاهد قبل الحذف/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/Galaxy/i):upward(1)
 
 !------------------------------------- My filters pane -------------------------------------
 https://tvplusnewtab.com/
