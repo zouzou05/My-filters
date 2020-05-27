@@ -43,14 +43,6 @@ youtube.com##.ytd-rich-item-renderer:has-text(/خواطر/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/فيلم/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/netflix/i):upward(1)
 
-!------------------------------------- temporary ------------------------------------------
-youtube.com##.ytd-rich-item-renderer:has-text(/كورونا/i):upward(1)
-youtube.com##.ytd-rich-item-renderer:has-text(/corona/i):upward(1)
-youtube.com##.ytd-rich-item-renderer:has-text(/التابوت/i):upward(1)
-youtube.com##.ytd-rich-item-renderer:has-text(/مسلسل/i):upward(1)
-youtube.com##.ytd-rich-item-renderer:has-text(/البث الحي/i):upward(1)
-youtube.com##.ytd-rich-item-renderer:has-text(/Trailer/i):upward(1)
-
 !------------------------------------- food -----------------------------------------------
 youtube.com##.ytd-rich-item-renderer:has-text(/دجاج/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/اكل/i):upward(1)
@@ -78,6 +70,16 @@ youtube.com##.ytd-rich-item-renderer:has-text(/ردة فعل/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/لايفوتك/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/شاهد قبل الحذف/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/Galaxy/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/عيد الفطر/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/عيد الاضحى/i):upward(1)
+
+!------------------------------------- temporary ------------------------------------------
+youtube.com##.ytd-rich-item-renderer:has-text(/كورونا/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/corona/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/التابوت/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/مسلسل/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/البث الحي/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/Trailer/i):upward(1)
 
 !------------------------------------- My filters pane -------------------------------------
 https://tvplusnewtab.com/
