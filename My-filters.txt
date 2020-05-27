@@ -9,7 +9,8 @@ youtube.com##.ytd-rich-item-renderer:has-text(/Cheb Khaled/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/CHEB HASNI/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/8d/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/MUSIC/i):upward(1)
- 
+ youtube.com##.ytd-rich-item-renderer:has-text(/remix/i):upward(1)
+
 !------------------------------------- football --------------------------------------------
 youtube.com##.ytd-rich-item-renderer:has-text(/Riyad Mahrez/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/الجزائر/i):upward(1)
@@ -33,6 +34,14 @@ youtube.com##.ytd-rich-item-renderer:has-text(/محرز/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/بن شيخ/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/goal/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/لخضر بريش/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/رونالدينيو/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/ريفالدو/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/Brazil/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/سليماني/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/ركلات جزاء/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/ركلات الترجيح/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/الدون/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/ارضية الملعي/i):upward(1)
 
 !------------------------------------- TV Shows --------------------------------------------
 youtube.com##.ytd-rich-item-renderer:has-text(/فوق السلطة/i):upward(1)
@@ -42,6 +51,7 @@ youtube.com##.ytd-rich-item-renderer:has-text(/باب الحارة/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/خواطر/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/فيلم/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/netflix/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/روبورتاج/i):upward(1)
 
 !------------------------------------- food -----------------------------------------------
 youtube.com##.ytd-rich-item-renderer:has-text(/دجاج/i):upward(1)
@@ -56,7 +66,8 @@ youtube.com##.ytd-rich-item-renderer:has-text(/كلاب/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/قطط/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/المقنين/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/مقنين/i):upward(1)
-youtube.com##.ytd-rich-item-renderer:has-text(/المقنين/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/الطيور/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/طيور/i):upward(1)
 
 !------------------------------------- Unlimited -------------------------------------------
 youtube.com##.ytd-rich-item-renderer:has-text(/معجزة/i):upward(1)
@@ -72,6 +83,9 @@ youtube.com##.ytd-rich-item-renderer:has-text(/شاهد قبل الحذف/i):upw
 youtube.com##.ytd-rich-item-renderer:has-text(/Galaxy/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/عيد الفطر/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/عيد الاضحى/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/MIUI/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/Trailer/i):upward(1) 
+youtube.com##.ytd-rich-item-renderer:has-text(/PUBG/i):upward(1)
 
 !------------------------------------- temporary ------------------------------------------
 youtube.com##.ytd-rich-item-renderer:has-text(/كورونا/i):upward(1)
@@ -79,7 +93,6 @@ youtube.com##.ytd-rich-item-renderer:has-text(/corona/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/التابوت/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/مسلسل/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/البث الحي/i):upward(1)
-youtube.com##.ytd-rich-item-renderer:has-text(/Trailer/i):upward(1)
 
 !------------------------------------- My filters pane -------------------------------------
 https://tvplusnewtab.com/
