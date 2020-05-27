@@ -14,6 +14,8 @@ youtube.com##.ytd-rich-item-renderer:has-text(/MUSIC/i):upward(1)
 !------------------------------------- football --------------------------------------------
 youtube.com##.ytd-rich-item-renderer:has-text(/Riyad Mahrez/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/الجزائر/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/غانا/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/المانيا/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/أفريقيا/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/افريقيا/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/كرة القدم/i):upward(1)
