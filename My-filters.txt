@@ -74,6 +74,7 @@ youtube.com##.ytd-rich-item-renderer:has-text(/المقنين/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/مقنين/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/الطيور/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/طيور/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/ريفكا/i):upward(1)
 
 !------------------------------------- Unlimited -------------------------------------------
 youtube.com##.ytd-rich-item-renderer:has-text(/معجزة/i):upward(1)
