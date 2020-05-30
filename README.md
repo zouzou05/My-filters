@@ -11,3 +11,8 @@ Or add it manually using this RAW link — `https://raw.githubusercontent.com/Na
 
 Or add it manually using this RAW link — `https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt`
 
+# 4. Fanboy's problematic-sites
+
+abp:subscribe?location=https://secure.fanboy.co.nz/fanboy-problematic-sites.txt&title=Fanboy Problematic Sites
+
+Or add it manually using this link`https://secure.fanboy.co.nz/fanboy-problematic-sites.txt`
