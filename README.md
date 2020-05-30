@@ -17,3 +17,9 @@ Or add it manually using this RAW link —>> `https://raw.githubusercontent.com/
 
 Or add it manually using this link —>>  `https://secure.fanboy.co.nz/fanboy-problematic-sites.txt`
 
+# 5. Anti-Cookie Filters 
+
+this list, press the button —> [subscribe](https://subscribe.adblockplus.org/?location=https://secure.fanboy.co.nz/fanboy-cookiemonster.txt&title=Anti-Cookie)
+
+Or add it manually using this link —>>  `https://secure.fanboy.co.nz/fanboy-cookiemonster.txt`
+
