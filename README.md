@@ -13,7 +13,7 @@ Or add it manually using this RAW link — `https://raw.githubusercontent.com/bo
 
 # 4. Fanboy's problematic-sites
 
-[subscribe](https://subscribe.adblockplus.org/?location=https://fanboy.co.nz/fanboy-problematic-sites.txt&title=fanboy-problematic-sites)
+ this list, press the button — [subscribe](https://subscribe.adblockplus.org/?location=https://fanboy.co.nz/fanboy-problematic-sites.txt&title=fanboy-problematic-sites)
 
 Or add it manually using this link`https://secure.fanboy.co.nz/fanboy-problematic-sites.txt`
-abp:subscribe?location=https://secure.fanboy.co.nz/fanboy-problematic-sites.txt&title=fanboy-problematic-site
+
