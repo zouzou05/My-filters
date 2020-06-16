@@ -108,6 +108,7 @@ youtube.com##.ytd-rich-item-renderer:has-text(/Trailer/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/PUBG/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/التسويق الالكتروني/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/التسويق الشبكي/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/ميمز/i):upward(1) 
 
 !------------------------------------- temporary ------------------------------------------
 youtube.com##.ytd-rich-item-renderer:has-text(/كورونا/i):upward(1)
