@@ -119,6 +119,7 @@ youtube.com##.ytd-rich-item-renderer:has-text(/البث الحي/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/COVID-19/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/كوفيد 19/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/كوفيد-19/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/لايكات/i):upward(1)
 
 !------------------------------------- My filters pane -------------------------------------
 https://tvplusnewtab.com/
