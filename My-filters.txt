@@ -74,6 +74,8 @@ youtube.com##.ytd-rich-item-renderer:has-text(/خواطر/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/فيلم/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/netflix/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/روبورتاج/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/التيك توك/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/تيك توك/i):upward(1)
 
 !------------------------------------- food -----------------------------------------------
 youtube.com##.ytd-rich-item-renderer:has-text(/دجاج/i):upward(1)
