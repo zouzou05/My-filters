@@ -11,7 +11,9 @@ Or add it manually using this RAW link —>>
 # 3. Fuck Fuckadblock
 - To add this list, press the button —> [subscribe](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt&title=Fuck%20Fuckadblock)
 
-Or add it manually using this RAW link —>> `https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt`
+Or add it manually using this RAW link —>>
+
+`https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt`
 
 # 4. Fanboy's problematic-sites
 
