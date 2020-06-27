@@ -79,6 +79,8 @@ youtube.com##.ytd-rich-item-renderer:has-text(/netflix/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/روبورتاج/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/التيك توك/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/تيك توك/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/بوليوود/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/هوليوود/i):upward(1)
 
 !------------------------------------- food -----------------------------------------------
 youtube.com##.ytd-rich-item-renderer:has-text(/دجاج/i):upward(1)
@@ -97,6 +99,7 @@ youtube.com##.ytd-rich-item-renderer:has-text(/مقنين/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/الطيور/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/طيور/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/ريفكا/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/كوبرا/i):upward(1)
 
 !------------------------------------- Unlimited -------------------------------------------
 youtube.com##.ytd-rich-item-renderer:has-text(/معجزة/i):upward(1)
@@ -141,6 +144,7 @@ youtube.com##.ytd-rich-item-renderer:has-text(/لايكات/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/عيد الاضحى/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/اضحية العيد/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/عيد الأضحى/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/العيد/i):upward(1)
 
 !------------------------------------- My filters pane -------------------------------------
 https://tvplusnewtab.com/
