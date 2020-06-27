@@ -23,6 +23,7 @@ youtube.com##.ytd-rich-item-renderer:has-text(/ميسي/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/الدون/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/كريستيانو/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/رونالدو/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/Ronaldo/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/Ronaldinho/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/رونالدينيو/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/ريفالدو/i):upward(1)
@@ -137,6 +138,9 @@ youtube.com##.ytd-rich-item-renderer:has-text(/COVID-19/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/كوفيد 19/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/كوفيد-19/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/لايكات/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/عيد الاضحى/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/اضحية العيد/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/عيد الأضحى/i):upward(1)
 
 !------------------------------------- My filters pane -------------------------------------
 https://tvplusnewtab.com/
