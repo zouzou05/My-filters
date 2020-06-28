@@ -95,6 +95,7 @@ youtube.com##.ytd-rich-item-renderer:has-text(/بوليوود/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/هوليوود/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/غزاوي/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/غزالي/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/حريم السلطان/i):upward(1)
 
 !------------------------------------- food -----------------------------------------------
 youtube.com##.ytd-rich-item-renderer:has-text(/دجاج/i):upward(1)
