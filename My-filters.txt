@@ -156,10 +156,6 @@ youtube.com##.ytd-rich-item-renderer:has-text(/شاهد قبل الحذف/i):upw
 youtube.com##.ytd-rich-item-renderer:has-text(/Galaxy/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/MIUI/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/Trailer/i):upward(1) 
-youtube.com##.ytd-rich-item-renderer:has-text(/PUBG/i):upward(1)
-youtube.com##.ytd-rich-item-renderer:has-text(/ببجي/i):upward(1)
-youtube.com##.ytd-rich-item-renderer:has-text(/FreeFire /i):upward(1)
-youtube.com##.ytd-rich-item-renderer:has-text(/فري فاير/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/التسويق الالكتروني/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/التسويق الشبكي/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/ميمز/i):upward(1) 
@@ -188,15 +184,21 @@ youtube.com##.ytd-rich-item-renderer:has-text(/عيد الأضحى/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/العيد/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/عيد الفطر/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/عيد الاضحى/i):upward(1)
+
 !---------------------------------------- Cars ---------------------------------------------
 youtube.com##.ytd-rich-item-renderer:has-text(/أسعار السيارات/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/سوق السيارات/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/bmw/i):upward(1)
+
 !---------------------------------------- Games ---------------------------------------------
 youtube.com##.ytd-rich-item-renderer:has-text(/FREE FIRE/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/FreeFire/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/bmw/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/bmw/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/bmw/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/PUBG/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/ببجي/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/فري فاير/i):upward(1)
 
 !------------------------------------- My filters pane -------------------------------------
 
