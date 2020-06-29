@@ -96,6 +96,9 @@ youtube.com##.ytd-rich-item-renderer:has-text(/هوليوود/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/غزاوي/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/غزالي/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/حريم السلطان/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/EP/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/WGFJ/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/كرتون/i):upward(1)
 
 !------------------------------------- food -----------------------------------------------
 youtube.com##.ytd-rich-item-renderer:has-text(/دجاج/i):upward(1)
@@ -117,6 +120,10 @@ youtube.com##.ytd-rich-item-renderer:has-text(/فطور/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/غداء/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/عشاء/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/سحور/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/اكلات/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/أكلات/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/حمية/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/رجيم/i):upward(1)
 
 !------------------------------------- Animals --------------------------------------------
 youtube.com##.ytd-rich-item-renderer:has-text(/حيوانات/i):upward(1)
@@ -184,6 +191,11 @@ youtube.com##.ytd-rich-item-renderer:has-text(/عيد الاضحى/i):upward(1)
 !---------------------------------------- Cars ---------------------------------------------
 youtube.com##.ytd-rich-item-renderer:has-text(/أسعار السيارات/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/سوق السيارات/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/bmw/i):upward(1)
+!---------------------------------------- Games ---------------------------------------------
+youtube.com##.ytd-rich-item-renderer:has-text(/FREE FIRE/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/bmw/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/bmw/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/bmw/i):upward(1)
 
 !------------------------------------- My filters pane -------------------------------------
