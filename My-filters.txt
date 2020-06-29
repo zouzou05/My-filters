@@ -102,8 +102,10 @@ youtube.com##.ytd-rich-item-renderer:has-text(/حريم السلطان/i):upward
 youtube.com##.ytd-rich-item-renderer:has-text(/EP/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/WGFJ/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/كرتون/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/أنمي/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/الدحيح/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/Rick and Morty/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/تويتش/i):upward(1)
 
 !------------------------------------- food -----------------------------------------------
 youtube.com##.ytd-rich-item-renderer:has-text(/دجاج/i):upward(1)
@@ -132,7 +134,14 @@ youtube.com##.ytd-rich-item-renderer:has-text(/حمية/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/رجيم/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/البنة/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/chocolate/i):upward(1)
- 
+ youtube.com##.ytd-rich-item-renderer:has-text(/سندويش/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/مرقة/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/اللوبيا/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/لوبيا/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/سكالوب/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/طاجين/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/مقلي/i):upward(1)
+
 !------------------------------------- Animals --------------------------------------------
 youtube.com##.ytd-rich-item-renderer:has-text(/حيوانات/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/كناري/i):upward(1)
@@ -160,6 +169,8 @@ youtube.com##.ytd-rich-item-renderer:has-text(/الاسد/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/الأسد/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/اسود/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/أسود/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/Octopus/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/Animals/i):upward(1)
 
 !------------------------------------- Unlimited -------------------------------------------
 youtube.com##.ytd-rich-item-renderer:has-text(/معجزة/i):upward(1)
@@ -191,10 +202,13 @@ youtube.com##.ytd-rich-item-renderer:has-text(/التنمية/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/يوميات/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/بوتفليقة/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/تبون/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/Officiel/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/الحراك/i):upward(1)
 
 !------------------------------------- temporary ------------------------------------------
 youtube.com##.ytd-rich-item-renderer:has-text(/كورونا/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/corona/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/الحجر/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/التابوت/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/مسلسل/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/البث الحي/i):upward(1)
