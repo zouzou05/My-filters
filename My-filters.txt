@@ -105,7 +105,9 @@ youtube.com##.ytd-rich-item-renderer:has-text(/حلويات/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/كوسة/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/برجر/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/البرجر/i):upward(1)
-youtube.com##.ytd-rich-item-renderer:has-text(/محرز/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/فطيرة/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/نودلز/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/السمن/i):upward(1)
 
 !------------------------------------- Animals --------------------------------------------
 youtube.com##.ytd-rich-item-renderer:has-text(/حيوانات/i):upward(1)
@@ -122,6 +124,7 @@ youtube.com##.ytd-rich-item-renderer:has-text(/كوبرا/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/الكوبرا/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/كبش/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/كباش/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/Husky/i):upward(1)
 
 !------------------------------------- Unlimited -------------------------------------------
 youtube.com##.ytd-rich-item-renderer:has-text(/معجزة/i):upward(1)
@@ -151,6 +154,8 @@ youtube.com##.ytd-rich-item-renderer:has-text(/اردوغان/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/تيم بن حمد/i):upward(1) 
 youtube.com##.ytd-rich-item-renderer:has-text(/مرسي/i):upward(1) 
 youtube.com##.ytd-rich-item-renderer:has-text(/واد كنيس/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/تحدي/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/مقلب/i):upward(1)
 
 !------------------------------------- temporary ------------------------------------------
 youtube.com##.ytd-rich-item-renderer:has-text(/كورونا/i):upward(1)
