@@ -108,6 +108,11 @@ youtube.com##.ytd-rich-item-renderer:has-text(/البرجر/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/فطيرة/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/نودلز/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/السمن/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/الزفيطي/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/زفيطي/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/بيتزا/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/شخشوخة/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/كسكس/i):upward(1)
 
 !------------------------------------- Animals --------------------------------------------
 youtube.com##.ytd-rich-item-renderer:has-text(/حيوانات/i):upward(1)
