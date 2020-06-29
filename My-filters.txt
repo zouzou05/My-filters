@@ -80,6 +80,7 @@ youtube.com##.ytd-rich-item-renderer:has-text(/المنتخب المغربي/i):
 youtube.com##.ytd-rich-item-renderer:has-text(/المنتخب التونسي/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/Norwich City/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/Manchester United/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/Manchester City/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/ماجر/i):upward(1)
 
 !------------------------------------- TV Shows --------------------------------------------
@@ -102,6 +103,7 @@ youtube.com##.ytd-rich-item-renderer:has-text(/EP/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/WGFJ/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/كرتون/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/الدحيح/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/Rick and Morty/i):upward(1)
 
 !------------------------------------- food -----------------------------------------------
 youtube.com##.ytd-rich-item-renderer:has-text(/دجاج/i):upward(1)
