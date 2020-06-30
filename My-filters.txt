@@ -134,7 +134,7 @@ youtube.com##.ytd-rich-item-renderer:has-text(/حمية/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/رجيم/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/البنة/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/chocolate/i):upward(1)
- youtube.com##.ytd-rich-item-renderer:has-text(/سندويش/i):upward(1)
+ youtube.com##.ytd-rich-item-renderer:has-text(/ساندويش/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/مرقة/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/اللوبيا/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/لوبيا/i):upward(1)
@@ -242,7 +242,6 @@ youtube.com##.ytd-rich-item-renderer:has-text(/bmw/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/bmw/i):upward(1)
 
 !------------------------------------- My filters pane -------------------------------------
-
 https://tvplusnewtab.com/
 http://newtabtv.com/
 facebook.com###pagelet_growth_expanding_cta
