@@ -226,6 +226,7 @@ youtube.com##.ytd-rich-item-renderer:has-text(/عيد الاضحى/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/أسعار السيارات/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/سوق السيارات/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/bmw/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/volkswagen/i):upward(1)
 
 !---------------------------------------- Games ---------------------------------------------
 youtube.com##.ytd-rich-item-renderer:has-text(/FREE FIRE/i):upward(1)
