@@ -268,3 +268,7 @@ vps.apponfly.com###RequireEmail
 
 ![Youtube]حظر مقاطع الفيديو المقترحة المعروضة عند إيقاف الفيديو مؤقتًا.
 www.youtube.com##.ytp-scroll-min.ytp-pause-overlay
+
+! 6/20/2020 https://www.zimabdko.com
+www.zimabdko.com###sgpb-popup-dialog-main-div
+www.zimabdko.com##.sgpb-popup-overlay.sgpb-popup-overlay-24086.sgpb-theme-3-overlay
