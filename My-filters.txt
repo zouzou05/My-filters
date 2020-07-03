@@ -107,6 +107,7 @@ youtube.com##.ytd-rich-item-renderer:has-text(/أنمي/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/الدحيح/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/Rick and Morty/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/تويتش/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/يوسف الشريف/i):upward(1)
 
 !------------------------------------- food -----------------------------------------------
 youtube.com##.ytd-rich-item-renderer:has-text(/دجاج/i):upward(1)
@@ -205,6 +206,8 @@ youtube.com##.ytd-rich-item-renderer:has-text(/بوتفليقة/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/تبون/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/Officiel/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/الحراك/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/الامازيغ/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/الأمازيغ/i):upward(1)
 
 !------------------------------------- temporary ------------------------------------------
 youtube.com##.ytd-rich-item-renderer:has-text(/كورونا/i):upward(1)
