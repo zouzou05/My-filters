@@ -17,7 +17,7 @@ Or add it manually using this RAW link —>>
 
 # 4. 🚪 Browse websites without logging in
 
-- To add this list, press the button —> [subscribe](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/DandelionSprout/adfilt/master/BrowseWebsitesWithoutLoggingIn.txt&title=🚪 Browse-websites-without-logging-in)
+- To add this list, press the button —> [subscribe](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/DandelionSprout/adfilt/master/BrowseWebsitesWithoutLoggingIn.txt&title=Browse%websites%without%logging%in)
 
 Or add it manually using this link —>>  `https://raw.githubusercontent.com/DandelionSprout/adfilt/master/BrowseWebsitesWithoutLoggingIn.txt`
 
