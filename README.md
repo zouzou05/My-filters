@@ -15,11 +15,11 @@ Or add it manually using this RAW link —>>
 
 `https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt`
 
-# 4. Fanboy's problematic-sites
+# 4. 🚪 Browse websites without logging in
 
-- To add this list, press the button —> [subscribe](https://subscribe.adblockplus.org/?location=https://fanboy.co.nz/fanboy-problematic-sites.txt&title=fanboy-problematic-sites)
+- To add this list, press the button —> [subscribe](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/DandelionSprout/adfilt/master/BrowseWebsitesWithoutLoggingIn.txt&title=🚪 Browse-websites-without-logging-in)
 
-Or add it manually using this link —>>  `https://secure.fanboy.co.nz/fanboy-problematic-sites.txt`
+Or add it manually using this link —>>  `https://raw.githubusercontent.com/DandelionSprout/adfilt/master/BrowseWebsitesWithoutLoggingIn.txt`
 
 # 5. Anti-Cookie Filters 
 
