@@ -278,21 +278,22 @@ www.zimabdko.com###sgpb-popup-dialog-main-div
 www.zimabdko.com##.sgpb-popup-overlay.sgpb-popup-overlay-24086.sgpb-theme-3-overlay
 
 ! Title: Remove youtube Endscreen
+www.youtube.com##.ytp-ce-element
 !playlist
-www.youtube.com##.ytp-ce-element-show.ytp-ce-size-640.ytp-ce-top-left-quad.ytp-ce-playlist.ytp-ce-element
-www.youtube.com##.ytp-ce-element-show.ytp-ce-size-640.ytp-ce-top-right-quad.ytp-ce-playlist.ytp-ce-element
-www.youtube.com##.ytp-ce-element-show.ytp-ce-size-640.ytp-ce-bottom-left-quad.ytp-ce-playlist.ytp-ce-element
-www.youtube.com##.ytp-ce-element-show.ytp-ce-size-640.ytp-ce-bottom-right-quad.ytp-ce-playlist.ytp-ce-element
+!www.youtube.com##.ytp-ce-element-show.ytp-ce-size-640.ytp-ce-top-left-quad.ytp-ce-playlist.ytp-ce-element
+!www.youtube.com##.ytp-ce-element-show.ytp-ce-size-640.ytp-ce-top-right-quad.ytp-ce-playlist.ytp-ce-element
+!www.youtube.com##.ytp-ce-element-show.ytp-ce-size-640.ytp-ce-bottom-left-quad.ytp-ce-playlist.ytp-ce-element
+!www.youtube.com##.ytp-ce-element-show.ytp-ce-size-640.ytp-ce-bottom-right-quad.ytp-ce-playlist.ytp-ce-element
 !video
-www.youtube.com##.ytp-ce-element-show.ytp-ce-size-640.ytp-ce-top-left-quad.ytp-ce-video.ytp-ce-element
-www.youtube.com##.ytp-ce-element-show.ytp-ce-size-640.ytp-ce-top-right-quad.ytp-ce-video.ytp-ce-element
-www.youtube.com##.ytp-ce-element-show.ytp-ce-size-640.ytp-ce-bottom-left-quad.ytp-ce-video.ytp-ce-element
-www.youtube.com##.ytp-ce-element-show.ytp-ce-size-640.ytp-ce-bottom-right-quad.ytp-ce-video.ytp-ce-element
+!www.youtube.com##.ytp-ce-element-show.ytp-ce-size-640.ytp-ce-top-left-quad.ytp-ce-video.ytp-ce-element
+!www.youtube.com##.ytp-ce-element-show.ytp-ce-size-640.ytp-ce-top-right-quad.ytp-ce-video.ytp-ce-element
+!www.youtube.com##.ytp-ce-element-show.ytp-ce-size-640.ytp-ce-bottom-left-quad.ytp-ce-video.ytp-ce-element
+!www.youtube.com##.ytp-ce-element-show.ytp-ce-size-640.ytp-ce-bottom-right-quad.ytp-ce-video.ytp-ce-element
 !subscribe
-www.youtube.com##.ytp-ce-size-640.ytp-ce-top-left-quad.ytp-ce-element-show.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element
-www.youtube.com##.ytp-ce-size-640.ytp-ce-top-right-quad.ytp-ce-element-show.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element
-www.youtube.com##.ytp-ce-size-640.ytp-ce-bottom-left-quad.ytp-ce-element-show.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element
-www.youtube.com##.ytp-ce-size-640.ytp-ce-bottom-right-quad.ytp-ce-element-show.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element
+!www.youtube.com##.ytp-ce-size-640.ytp-ce-top-left-quad.ytp-ce-element-show.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element
+!www.youtube.com##.ytp-ce-size-640.ytp-ce-top-right-quad.ytp-ce-element-show.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element
+!www.youtube.com##.ytp-ce-size-640.ytp-ce-bottom-left-quad.ytp-ce-element-show.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element
+!www.youtube.com##.ytp-ce-size-640.ytp-ce-bottom-right-quad.ytp-ce-element-show.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element
 
 youtube.com###dismissable:has-text(Recommended for you)
 youtube.com###dismissable:has-text(مباشر الآن)
