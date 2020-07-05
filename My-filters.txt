@@ -294,4 +294,5 @@ www.youtube.com##.ytp-ce-size-640.ytp-ce-top-right-quad.ytp-ce-element-show.ytp-
 www.youtube.com##.ytp-ce-size-640.ytp-ce-bottom-left-quad.ytp-ce-element-show.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element
 www.youtube.com##.ytp-ce-size-640.ytp-ce-bottom-right-quad.ytp-ce-element-show.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element
 
-
+youtube.com###dismissable:has-text(Recommended for you)
+youtube.com###dismissable:has-text(مباشر الآن)
