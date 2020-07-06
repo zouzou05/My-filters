@@ -20,6 +20,18 @@ youtube.com##.ytd-rich-item-renderer:has-text(/Soolking/i):upward(1)
  youtube.com##.ytd-rich-item-renderer:has-text(/Cheb Nadjib/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/DJ Kayz/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/Souhila Ben Lachhab/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/Eminem/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/ايمينم/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/إيمينم/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/50 cent/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/Alan Walker/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/Cheb Djalil/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/ZAKO/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/TRAP KING/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/Cheb Bachir/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/Clip Officiel/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/KADER TIRIGOU/i):upward(1)
+
 
 !------------------------------------- football --------------------------------------------
 youtube.com##.ytd-rich-item-renderer:has-text(/Riyad Mahrez/i):upward(1)
