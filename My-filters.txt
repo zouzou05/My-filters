@@ -106,11 +106,11 @@ youtube.com##.ytd-rich-item-renderer:has-text(/حريم السلطان/i):upward
 youtube.com##.ytd-rich-item-renderer:has-text(/EP/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/WGFJ/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/كرتون/i):upward(1)
-youtube.com##.ytd-rich-item-renderer:has-text(/أنمي/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/الدحيح/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/Rick and Morty/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/تويتش/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/يوسف الشريف/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/اللمبي/i):upward(1)
 
 !------------------------------------- food -----------------------------------------------
 youtube.com##.ytd-rich-item-renderer:has-text(/دجاج/i):upward(1)
@@ -273,6 +273,7 @@ youtube.com##.ytd-rich-item-renderer:has-text(/بيروس/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/سايتاما/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/One Punch Man/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/القناص/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/أنمي/i):upward(1)
 
 !:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: My filters pane :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
