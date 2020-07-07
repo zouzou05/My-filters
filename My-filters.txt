@@ -266,6 +266,14 @@ youtube.com##.ytd-rich-item-renderer:has-text(/bmw/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/bmw/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/bmw/i):upward(1)
 
+!---------------------------------------- Anime ---------------------------------------------
+youtube.com##.ytd-rich-item-renderer:has-text(/غوكو/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/amv/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/بيروس/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/سايتاما/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/One Punch Man/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/القناص/i):upward(1)
+
 !:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: My filters pane :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 https://tvplusnewtab.com/
