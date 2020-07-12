@@ -86,6 +86,7 @@ youtube.com##.ytd-rich-item-renderer:has-text(/Norwich City/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/Manchester United/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/Manchester City/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/ماجر/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/بلباو/i):upward(1)
 
 !------------------------------------- TV Shows --------------------------------------------
 youtube.com##.ytd-rich-item-renderer:has-text(/فوق السلطة/i):upward(1)
@@ -111,6 +112,7 @@ youtube.com##.ytd-rich-item-renderer:has-text(/Rick and Morty/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/تويتش/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/يوسف الشريف/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/اللمبي/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/عاشور العاشر/i):upward(1)
 
 !------------------------------------- food -----------------------------------------------
 youtube.com##.ytd-rich-item-renderer:has-text(/دجاج/i):upward(1)
@@ -176,6 +178,7 @@ youtube.com##.ytd-rich-item-renderer:has-text(/اسود/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/أسود/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/Octopus/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/Animals/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/بيتشيتشي/i):upward(1)
 
 !------------------------------------- Unlimited -------------------------------------------
 youtube.com##.ytd-rich-item-renderer:has-text(/معجزة/i):upward(1)
