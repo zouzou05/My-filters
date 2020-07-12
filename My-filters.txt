@@ -288,9 +288,9 @@ https://tvplusnewtab.com/
 http://newtabtv.com/
 !facebook.com###pagelet_growth_expanding_cta
 
-!instagram.com##.RnEpo
-!instagram.com##body:style(overflow: auto !important)
-!instagram.com##div.tHaIX.Igw0E.IwRSH.pmxbr.YBx95._4EzTm.CIRqI.IY_1_.XfCBB.HcJZg.O1flK.D8xaz._7JkPY.TxciK.N9d2H.ZUqME
+instagram.com##.RnEpo
+instagram.com##body:style(overflow: auto !important)
+instagram.com##div.tHaIX.Igw0E.IwRSH.pmxbr.YBx95._4EzTm.CIRqI.IY_1_.XfCBB.HcJZg.O1flK.D8xaz._7JkPY.TxciK.N9d2H.ZUqME
 
 egybest.*##div.sharer.ar
 ! 5/4/2020 https://none.egybest.ninja
