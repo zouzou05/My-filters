@@ -31,6 +31,8 @@ youtube.com##.ytd-rich-item-renderer:has-text(/TRAP KING/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/Cheb Bachir/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/Clip Officiel/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/KADER TIRIGOU/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/الشاب حسام/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/Cheb Houssem/i):upward(1)
 
 
 !------------------------------------- football --------------------------------------------
