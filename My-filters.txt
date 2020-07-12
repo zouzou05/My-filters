@@ -150,6 +150,9 @@ youtube.com##.ytd-rich-item-renderer:has-text(/لوبيا/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/سكالوب/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/طاجين/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/مقلي/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/مأكولات/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/لحم/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/خبز/i):upward(1)
 
 !------------------------------------- Animals --------------------------------------------
 youtube.com##.ytd-rich-item-renderer:has-text(/حيوانات/i):upward(1)
@@ -181,6 +184,7 @@ youtube.com##.ytd-rich-item-renderer:has-text(/أسود/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/Octopus/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/Animals/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/بيتشيتشي/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/خنزير/i):upward(1)
 
 !------------------------------------- Unlimited -------------------------------------------
 youtube.com##.ytd-rich-item-renderer:has-text(/معجزة/i):upward(1)
@@ -272,7 +276,10 @@ youtube.com##.ytd-rich-item-renderer:has-text(/bmw/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/bmw/i):upward(1)
 
 !---------------------------------------- Anime ---------------------------------------------
+youtube.com##.ytd-rich-item-renderer:has-text(/دراجون بول/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/Dragon ball/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/غوكو/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/goku/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/amv/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/بيروس/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/سايتاما/i):upward(1)
@@ -284,7 +291,6 @@ youtube.com##.ytd-rich-item-renderer:has-text(/الكيوبي/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/naruto/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/ساسكي/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/DRAGON BALL/i):upward(1)
-youtube.com##.ytd-rich-item-renderer:has-text(/دراجون بول/i):upward(1)
 
 !:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: My filters pane :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
