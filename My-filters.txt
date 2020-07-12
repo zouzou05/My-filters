@@ -274,6 +274,10 @@ youtube.com##.ytd-rich-item-renderer:has-text(/سايتاما/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/One Punch Man/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/القناص/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/أنمي/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/ناروتو/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/الكيوبي/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/naruto/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/ساسكي/i):upward(1)
 
 !:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: My filters pane :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
