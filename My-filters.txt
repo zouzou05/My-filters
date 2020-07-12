@@ -283,6 +283,8 @@ youtube.com##.ytd-rich-item-renderer:has-text(/ناروتو/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/الكيوبي/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/naruto/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/ساسكي/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/DRAGON BALL/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/دراجون بول/i):upward(1)
 
 !:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: My filters pane :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
