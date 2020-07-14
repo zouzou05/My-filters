@@ -281,6 +281,7 @@ youtube.com##.ytd-rich-item-renderer:has-text(/Dragon ball/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/غوكو/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/goku/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/amv/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/غوغو/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/بيروس/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/سايتاما/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/One Punch Man/i):upward(1)
@@ -291,6 +292,8 @@ youtube.com##.ytd-rich-item-renderer:has-text(/الكيوبي/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/naruto/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/ساسكي/i):upward(1)
 youtube.com##.ytd-rich-item-renderer:has-text(/DRAGON BALL/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/لوفي/i):upward(1)
+youtube.com##.ytd-rich-item-renderer:has-text(/ون بيس/i):upward(1)
 
 !:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: My filters pane :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
